@@ -14,13 +14,22 @@ https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=524cb31dc2
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+VIM: Það gekk bara mjög vel og auðvelt að setja það upp. Notaði linkinn (http://code.google.com/p/macvim/) og downloadaði VIM.
+Horfði svo á nokkra tutoriala til þess að fá að vita hvernig VIM virkar og það get svona ágætlega.
+
+GIT: Það var einnig ekkert vandamál að setja það upp. Virkaði bara mjög vel í Mac tölvunni minni, en nú veit ég ekkert um hvernig
+git virkar í ubuntu eða linux :(.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Ég var í smá basli fyrst, vissi hreinlega ekkert hvað ég var að gera. En ég fór aðeins að fykta og las verkefnis lýsinguna sem við fengum inn á 
+myschool.ru.is og fór bara eftir leiðbeiningum, eða þannig séð. Átti fyrst erfitt með að fatta hvernig ég átti að gera "My First Commit"
+en ég senti nokkrar línur á hann Daníel og hann sagði mér að ég væri á réttri leið, og já náði því loksins.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Ég skilaði þessu verkefni inn sjálfur í þetta sinn.  Öll verkefni sem ég hef skilað
+hingað til hefur verið með hópmeðlimum, en við hittumst ekkert í þessari viku vegna þess að ég komst ekki frá vinnu og þeir voru mjög uppteknir
+í öðrum verkefnum og prófum.  
+Hérna er tengillinn (linkurinn) á verkefnið mitt INTOPrufa (https://github.com/skarioc15/INTOPrufa).
 
 ## 4. Uppsettur hugbúnaður
 
