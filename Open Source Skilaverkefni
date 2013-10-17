@@ -1,4 +1,4 @@
-#Open Source
+#Open Source Skilaverkefni
 
 Óskar Gonzalez Guðbrandsson
 
@@ -33,8 +33,9 @@ Hérna er tengillinn (linkurinn) á verkefnið mitt INTOPrufa (https://github.co
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+1.VLC: er undir GNU eða General PublicLicense, http://www.videolan.org/vlc/index.html
+2.Mozilla Firefox: er undir MIT License, http://www.mozilla.org/en-US/firefox/new/
+3.Virtualbox: er undir GNU General Public License V2 (GPL) https://www.virtualbox.org
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
